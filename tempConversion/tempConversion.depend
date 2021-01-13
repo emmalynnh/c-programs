@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610513183 source:/home/emmalynn/playground/c-scripts/tempConversion/main.c
+	<stdio.h>
+	<stdlib.h>
+
